@@ -14,3 +14,4 @@ data/templates_cache
 
 # windows thumbnail cache
 Thumbs.db
+/configs/config.inc.php
